@@ -1,0 +1,2 @@
+excel2csv.app/Contents/MacOS/excel2csv filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
